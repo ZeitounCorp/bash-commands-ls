@@ -50,11 +50,11 @@ async function main() {
 
 ## Configuration (optional)
 
-| Parameter | Type       | Default                                                              | Description                                                                                              |
-| --------- | ---------- | -------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------- |
-| dir       | `string`   | `./`                                                                 | On which directory should ls be executed                                                                 |
-| output    | `'console' | 'file'`                                                              | `'console'`                                                                                              | Should the ls command returns the stdout or should write it in an output file |
-| options   | `object`   | `{args: {}, output_path: './out', arg_prefix: '-', arg_suffix: ' '}` | Configuration for the ls command, like passing `args`, defining the output path when `output === 'file'` |
+| Parameter | Type | Default | Description |
+|---|---|---|---|
+| dir | `string` | `./` | On which directory should ls be executed |
+| output | `'console'\|'file'` | `'console'` | Should the ls command returns the stdout or should write it in an output file |
+| options | `object` | `{args: {}, output_path: './out', arg_prefix: '-', arg_suffix: ' '}` | Configuration for the ls command, like passing `args`, defining the output path when `output === 'file'` |
 
 ## License
 
