@@ -3,6 +3,8 @@
   "version": "1.0.3",
   "description": "ls command ported to nodeJs package",
   "main": "index.js",
+  "homepage": "https://github.com/ZeitounCorp/bash-commands-ls",
+  "repository": "https://github.com/ZeitounCorp/bash-commands-ls",
   "scripts": {
     "patch": "npm version patch",
     "minor": "npm version minor",
