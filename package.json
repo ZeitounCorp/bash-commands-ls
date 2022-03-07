@@ -1,6 +1,6 @@
 {
   "name": "@bash-commands/ls",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "ls command ported to nodeJs package",
   "main": "index.js",
   "scripts": {
