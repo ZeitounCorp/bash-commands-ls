@@ -1,0 +1,16 @@
+{
+  "name": "@bash-commands/ls",
+  "version": "1.0.0",
+  "description": "ls command ported to nodeJs package",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "ls",
+    "bash",
+    "nodejs"
+  ],
+  "author": "ZeitounCorp",
+  "license": "ISC"
+}
