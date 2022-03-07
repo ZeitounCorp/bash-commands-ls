@@ -9,5 +9,8 @@
     "nodejs"
   ],
   "author": "ZeitounCorp",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "bash": "0.0.1"
+  }
 }
