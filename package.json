@@ -1,6 +1,6 @@
 {
   "name": "@bash-commands/ls",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "ls command ported to nodeJs package",
   "main": "index.js",
   "homepage": "https://github.com/ZeitounCorp/bash-commands-ls",
